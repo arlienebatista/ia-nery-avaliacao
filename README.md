@@ -11,7 +11,7 @@ com nota de 1 a 5 em três critérios (Acurácia, Clareza e Segurança).
 | `armazenamento.py` | grava as respostas no Google Sheets ou em CSV local |
 | `questoes.csv` | **os dados avaliados**. Trocar este arquivo troca a avaliação |
 | `gerar_csv.py` | regenera o `questoes.csv` a partir da planilha original |
-| `INSTRUCOES_CSV.md` | como editar o `questoes.csv` (para a Arliene) |
+| `INSTRUCOES_CSV.md` | como editar o `questoes.csv` |
 | `DEPLOY.md` | como publicar na web e configurar o Google Sheets |
 | `resultados/respostas.csv` | criado sozinho quando não há Google Sheets configurado |
 
