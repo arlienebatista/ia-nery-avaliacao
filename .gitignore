@@ -1,0 +1,15 @@
+# credenciais: nunca subir
+.streamlit/secrets.toml
+*.json
+
+# respostas gravadas localmente
+resultados/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
